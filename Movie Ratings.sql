@@ -1,6 +1,4 @@
 https://lagunita.stanford.edu/c4x/DB/SQL/asset/moviedata.html
-https://github.com/qinglin/db_course_stanford/blob/master/SQL%20Movie-Rating%20Query%20Exercises%20(extras)
-https://gist.github.com/backpackerhh/2487a2c59789ef13099d#file-extras-sql
 
 -- 1. Find the titles of all movies directed by Steven Spielberg. 
 SELECT TITLE 
